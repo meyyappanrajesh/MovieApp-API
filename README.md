@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/99a13465-63c8-404f-94dd-e6b026b89f9b)# React + Vite
+
 
 # 🎬 MovieApp
 
